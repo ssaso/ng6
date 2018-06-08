@@ -1,0 +1,21 @@
+{
+  "name": "ars-components",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^6.0.0-rc.0 || ^6.0.0",
+    "@angular/core": "^6.0.0-rc.0 || ^6.0.0"
+  },
+  "main": "bundles/ars-components.umd.js",
+  "module": "fesm5/ars-components.js",
+  "es2015": "fesm2015/ars-components.js",
+  "esm5": "esm5/ars-components.js",
+  "esm2015": "esm2015/ars-components.js",
+  "fesm5": "fesm5/ars-components.js",
+  "fesm2015": "fesm2015/ars-components.js",
+  "typings": "ars-components.d.ts",
+  "metadata": "ars-components.metadata.json",
+  "sideEffects": false,
+  "dependencies": {
+    "tslib": "^1.9.0"
+  }
+}
